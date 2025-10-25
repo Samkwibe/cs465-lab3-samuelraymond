@@ -1,0 +1,38 @@
+{
+    "topics": {
+      "1": "General EU Knowledge",
+      "2": "Mathematics",
+      "3": "Science"
+    },
+    "quizzes": {
+      "1": {
+        "topicID": 1,
+        "title": "EU Capitals Quiz",
+        "quizIntro": "Test your general knowledge with this sample quiz!",
+        "questions": [
+          {
+            "questionID": 1,
+            "questionText": "What is the capital of France?",
+            "answers": [
+              {"answerID": 1, "answerText": "Berlin"},
+              {"answerID": 2, "answerText": "Madrid"},
+              {"answerID": 3, "answerText": "Paris"},
+              {"answerID": 4, "answerText": "Rome"}
+            ],
+            "correctAnswerID": 3
+          },
+          {
+            "questionID": 2,
+            "questionText": "What EU capital is west-northwest of Brussels?",
+            "answers": [
+              {"answerID": 1, "answerText": "Amsterdam"},
+              {"answerID": 2, "answerText": "Madrid"},
+              {"answerID": 3, "answerText": "Paris"},
+              {"answerID": 4, "answerText": "London"}
+            ],
+            "correctAnswerID": 4
+          }
+        ]
+      }
+    }
+  }
