@@ -1,0 +1,67 @@
+{
+    "topics": {
+      "1": "General EU Knowledge",
+      "2": "Mathematics",
+      "3": "Science & Technology"
+    },
+    "quizzes": {
+      "1": {
+        "topicID": 1,
+        "title": "EU Capitals Quiz",
+        "quizIntro": "Test your knowledge of European Union capitals with this challenging quiz!",
+        "questions": [
+          {
+            "questionID": 1,
+            "questionText": "What is the capital of France?",
+            "answers": [
+              {"answerID": 1, "answerText": "Berlin"},
+              {"answerID": 2, "answerText": "Madrid"},
+              {"answerID": 3, "answerText": "Paris"},
+              {"answerID": 4, "answerText": "Rome"}
+            ],
+            "correctAnswerID": 3
+          },
+          {
+            "questionID": 2,
+            "questionText": "What EU capital is west-northwest of Brussels?",
+            "answers": [
+              {"answerID": 1, "answerText": "Amsterdam"},
+              {"answerID": 2, "answerText": "Madrid"},
+              {"answerID": 3, "answerText": "Paris"},
+              {"answerID": 4, "answerText": "London"}
+            ],
+            "correctAnswerID": 4
+          },
+          {
+            "questionID": 3,
+            "questionText": "The largest EU capital by area is?",
+            "answers": [
+              {"answerID": 1, "answerText": "Rome"},
+              {"answerID": 2, "answerText": "Berlin"},
+              {"answerID": 3, "answerText": "Amsterdam"},
+              {"answerID": 4, "answerText": "Madrid"}
+            ],
+            "correctAnswerID": 2
+          }
+        ]
+      },
+      "2": {
+        "topicID": 2,
+        "title": "Basic Mathematics",
+        "quizIntro": "Sharpen your math skills with fundamental problems",
+        "questions": [
+          {
+            "questionID": 1,
+            "questionText": "What is 15% of 200?",
+            "answers": [
+              {"answerID": 1, "answerText": "15"},
+              {"answerID": 2, "answerText": "20"},
+              {"answerID": 3, "answerText": "30"},
+              {"answerID": 4, "answerText": "25"}
+            ],
+            "correctAnswerID": 3
+          }
+        ]
+      }
+    }
+  }
